@@ -14,6 +14,8 @@ While I was reading about CNN's in Tensorflow, I decided to try it hands on and 
 
 Skin is the organ where changes can be first visible so I thought to monitor or detect some skin diseases early on could solve the problem
 
+## DATASET
+I have downloaded the dataset from kaggle database website from the mentioned publication : **subirbiswas19/skin-disease-dataset**
     
 ## Libraries and Tools Used
 
